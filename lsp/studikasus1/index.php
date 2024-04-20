@@ -17,7 +17,7 @@ $whatsapp->sendPhotosAndVideos();
 $whatsapp->callGroupVideo();
 
 // Use Instagram
-echo "\nInstagram Actions:\n";
+echo "<br> \nInstagram Actions:\n";
 $instagram->chat();
 $instagram->sendPhotosAndVideos();
 $instagram->publishPost();

@@ -12,7 +12,7 @@ echo "Mobil Actions:\n";
 $mobil->menggunakanBBM();
 
 // Use MobilListrik
-echo "\nMobil Listrik Actions:\n";
+echo "<br> \nMobil Listrik Actions:\n";
 $mobilListrik->menggunakanBaterai();
 
 ?>
