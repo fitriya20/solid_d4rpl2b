@@ -1,6 +1,6 @@
 <?php
 
-include_once "perhitunganPersegi.php";
+include_once "penghitungPersegi.php";
 include_once "persegi.php";
 
 $persegi = new Persegi(10);
