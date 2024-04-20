@@ -11,8 +11,10 @@ $mobilListrik = new MobilListrik();
 echo "Mobil Actions:\n";
 $mobil->menggunakanBBM();
 
+echo '<br/>';
+
 // Use MobilListrik
-echo "<br> \nMobil Listrik Actions:\n";
+echo "\nMobil Listrik Actions:\n";
 $mobilListrik->menggunakanBaterai();
 
 ?>
